@@ -1,65 +1,66 @@
 import product1 from '../../images/product-1.jpg';
 import product2 from '../../images/product-2.jpg';
 import product3 from '../../images/product-3.jpg';
-import sweet1 from '../../images/sweet3.jpg';
+import sweet1 from '../../images/sweet-1.jpeg';
 import sweet2 from '../../images/sweet-2.jpg';
 import sweet3 from '../../images/sweet-3.jpg';
+
 
 export const productData = [
   {
     img: product1,
     alt: 'Pizza',
-    name: 'Supreme Pizza',
+    name: 'Chicken Supreme',
     desc:
-      'Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-    price: '$19.99',
+      'Tomato sauce, chicken, capsicum, mushroom, and pineapple',
+    price: '$20.99',
     button: 'Add to Cart'
   },
   {
     img: product2,
     alt: 'Pizza',
-    name: 'Hawaiian Paradise',
+    name: 'Hawaiian',
     desc:
-      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
+      ' Tomato sauce, ham, and pineapple',
     price: '$16.99',
     button: 'Add to Cart'
   },
   {
     img: product3,
     alt: 'Pizza',
-    name: 'Veggie Overload',
+    name: 'Ultimate Veggie',
     desc:
-      ' Marinara sauce, basil, italian sausage, roma tomatoes, olives, and pesto',
-    price: '$14.99',
+      ' Tomato sauce, capsicum, mushroom, onion, and olives',
+    price: '$15.99',
     button: 'Add to Cart'
   }
 ];
 
 export const productDataTwo = [
   {
-    img: sweet2,
-    alt: 'Donuts',
-    name: 'Doughlicious',
+    img: sweet1,
+    alt: 'tart',
+    name: 'Amaretto tart',
     desc:
-      'Belgian chocolate glazed donuts covered in icing with sprinkles on top',
-    price: '$9.99',
+      'Garnished with toasted flaked almonds and drizzled with Melted dark chocolate',
+    price: '$10.99',
     button: 'Add to Cart'
   },
   {
-    img: sweet3,
-    alt: 'Ice Cream',
-    name: 'Caramel Wonder',
+    img: sweet2,
+    alt: 'Tiramisu',
+    name: 'Tiramisu Crepes',
     desc:
-      'Vanilla ice cream covered with caramel and chocolate glaze topped with a coco stick',
+      'Delicate crepes, filled with creamy mascarpone cheese and laced with vanilla and a hint of coffee liqueur',
     price: '$12.99',
     button: 'Add to Cart'
   },
   {
-    img: sweet1,
+    img: sweet3,
     alt: 'Brownie',
-    name: 'Brownie Bunch',
+    name: 'Walnut Brownie',
     desc:
-      'Double fudge brownie squares topped with white chocolate pieces and macadamia nuts',
+      'Topped with whipped cream and ricotta icing',
     price: '$9.99',
     button: 'Add to Cart'
   }
