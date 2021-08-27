@@ -5,8 +5,8 @@
 
 <div align="center">
   
- <img alt="Demo" src="./images/gemini1.PNG" />
- <img alt="Demo" src="./images/gemini2.PNG" />
+ <img alt="Demo" src="./src/images/gemini1.PNG" />
+ <img alt="Demo" src="./src/images/gemini2.PNG" />
 
 </div>
 
