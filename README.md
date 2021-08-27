@@ -1,4 +1,7 @@
-
+<h2 align="center">
+  Gemini Website <br/>
+  <a href="https://geminipizza.vercel.app/" target="">Gemini</a>
+</h2>
 ![1](https://user-images.githubusercontent.com/79240706/129139433-39d35b1c-1383-492d-bdd6-9293bf16cdba.PNG)
 
 ![gemini2](https://user-images.githubusercontent.com/79240706/129139462-156b6896-2b89-4fd5-991d-ce3768c19d95.PNG)
@@ -11,6 +14,7 @@ This project was built using below technologies.
 2. HTML5
 3. CSS3
 4. VsCode
+5. Vercel
 
 # **How to get started?**
 
