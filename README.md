@@ -3,10 +3,12 @@
   <a href="https://geminipizza.vercel.app/" target="">Gemini</a>
 </h2>
 
-![gemini1](https://user-images.githubusercontent.com/79240706/131081234-7c33a537-fe97-45aa-bcb3-4d97817d8098.PNG)
+<div align="center">
+  
+ <img alt="Demo" src="./images/gemini1.PNG" />
+ <img alt="Demo" src="./images/gemini2.PNG" />
 
-
-![gemini2](https://user-images.githubusercontent.com/79240706/129139462-156b6896-2b89-4fd5-991d-ce3768c19d95.PNG)
+</div>
 
 # **Built With**
 
